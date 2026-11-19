@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid28722",
+  "B": "/home/dev/feedback/uid28722",
+  "sha": "e1f83f4681bdea70ffa01fad2cb1326cf3fee028",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "Z3Prover",
+    "repo": "z3",
+    "sha": "e1f83f4681bdea70ffa01fad2cb1326cf3fee028"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "z3",
+    "cloneUrl": "https://github.com/Rrr119/z3.git"
+  },
+  "at": "2026-11-19T19:51:06.265Z"
+}
